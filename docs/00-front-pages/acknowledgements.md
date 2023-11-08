@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Acknowledgements
+description: "Expressing gratitude to mentors, collaborators, and supporters who contributed to the research on brain-computer music interfacing for meditation."
 nav_order: 3
 permalink: /docs/frontpages/acknowledgements
 parent: Front Pages

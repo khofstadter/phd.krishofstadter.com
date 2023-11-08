@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 3.5 Serious Gaming and Spatial Audio
+description: "The document outlines the role of serious gaming and spatial audio in inducing and maintaining altered states of consciousness (ASCs). It discusses persuasive gaming strategies and the application of spatial audio for immersive experiences in various contexts."
+keywords: "serious gaming, spatial audio, altered states of consciousness, persuasive strategies, immersion, gaming frameworks"
 nav_order: 5
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-5-litrev-gaming-and-spatial-audio

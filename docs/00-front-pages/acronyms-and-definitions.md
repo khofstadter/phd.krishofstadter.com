@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Acronyms and Definitions
+description: "A comprehensive list of acronyms and definitions related to brain-computer music interfacing (BCMI) and altered states of consciousness (ASC) used throughout this thesis on meditation and neurofeedback training."
 nav_order: 6
 permalink: /docs/frontpages/acronyms-and-definitions
 parent: Front Pages
 ---
 
 ## Acronyms and Definitions
-
 - ASC: Altered state of consciousness. Out of the five types of ASCs outlined by Vaitl et al. (2005), namely (1) spontaneously occurring (e.g. during sleep, dreaming or near-death experiences); (2) physically or physiologically induced (e.g. by starvation, diet or sexual activity); (3) psychologically induced (e.g. by sensory deprivation, hypnosis, biofeedback, meditation or rhythm-induced trance); (4) disease-induced, (e.g. in psychotic disorders or epilepsy) and (5) pharmacologically induced (e.g. with psychedelic drugs), this thesis focused on psychologically induced ASCs through meditation, neurofeedback training and rhythmic auditory entrainment.
 - BCMI: Brain-computer music interfacing.
     - BCMI-1: the BCMI system developed in the BCMI-1 project (Chapter 4).

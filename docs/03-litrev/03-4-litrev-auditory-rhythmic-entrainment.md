@@ -2,6 +2,8 @@
 layout: default
 title: 3.4 Auditory Rhythmic Entrainment (ARE)
 nav_order: 4
+description: "This document discusses Auditory Rhythmic Entrainment (ARE), exploring the relationship between rhythmic sound and its effects on the brain. It delves into binaural and monaural beats, Rhythmic Entrainment Intervention (REI), and shamanic journeying, examining how rhythmic stimuli can induce synchronization of brainwaves and potentially aid in therapeutic settings for various neurological conditions."
+keywords: "auditory rhythmic entrainment, are, literature review, entrainment, synchronisation, binaural beats, monaural beats, rhythmic entrainment intervention, rei, shamanic journeying, altered state of consciousness, asc, non-ordinary reality, nor, brainwave synchronization, meditation, music therapy, neural rhythms, cognitive improvement, neurological disorders, rhythmic patterns, brain shift radio, bsr, consciousness alteration, drumming, tempo, rhythm, eeg, brainwaves, therapy, mental health, ancient practices, modern research, neurofeedback"
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-4-litrev-auditory-rhythmic-entrainment
 ---

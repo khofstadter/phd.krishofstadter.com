@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 2 Methodology
+description: "Chapter 2 details the methodology of agile project management adapted for practice research, discussing iterative cycles in developing BCMI systems for meditation support in NFT and artistic performance settings, and outlines the literature review method."
+keywords: "agile project management, practice research, bcmi systems, neurofeedback therapy, meditation, artistic performance, literature review method, interdisciplinary research, eeg sonification, music therapy."
 nav_order: 7
 permalink: /docs/02-methodology
 ---

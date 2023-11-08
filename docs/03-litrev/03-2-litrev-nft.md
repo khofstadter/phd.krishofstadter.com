@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 3.2 Neurofeedback Training (NFT)
+description: "An in-depth exploration of Neurofeedback Training (NFT), covering its principles, applications, and various EEG neurofeedback protocols. Includes insights on the role of neuroplasticity, clinical and non-clinical uses, and standard NFT protocols with practical examples."
+keywords: "neurofeedback training, EEG biofeedback, neuroplasticity, clinical applications, non-clinical applications, BCI systems, neurofeedback protocols, brainwaves, cognitive enhancement, real-time EEG NFT, NFT classifications, neurofeedback efficacy"
 nav_order: 2
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-2-litrev-nft

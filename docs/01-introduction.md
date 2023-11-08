@@ -1,6 +1,9 @@
 ---
 layout: default
 title: 1 Introduction
+description: "An introduction to a thesis exploring the development of a brain-computer music interfacing system to aid meditation practices, with a focus on neurofeedback training and artistic performance settings."
+keywords: "BCMI, neurofeedback, meditation, HCI, EEG, neurogaming, music therapy, auditory entrainment, open-source"
+
 nav_order: 7
 permalink: /docs/01-introduction
 ---

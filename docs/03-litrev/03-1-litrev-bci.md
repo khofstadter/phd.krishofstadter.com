@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3.1 Brain-Computer Interfacing (BCI)
+description: "Section 3.1 provides an overview of Brain-Computer Interfacing (BCI), exploring its applications, classifications, interfacing steps with EEG, and the integration of BCI in various fields including clinical, artistic, and recreational settings."
 nav_order: 1
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-1-litrev-bci

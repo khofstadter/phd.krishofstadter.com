@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 3.6 Brain-Computer Music Interfacing (BCMI)
+description: "Explore the intersection of brain-computer interfacing (BCMI) and music in this comprehensive literature review. Dive into the historical development of BCMI, understand its applications in both clinical and artistic settings, and discover how BCMI systems transform brain activity into sound and music. From the pioneering works of the 1960s to contemporary advancements, this page offers an in-depth look at the role of BCMI in expanding the boundaries of musical performance and therapy."
+keywords: "brain-computer music interface, bcmi, brain-computer interfacing, bci, eeg, biofeedback, sound synthesis, music therapy, neurofeedback, eeg sonification, bcmi systems, brainwave music, hci in music, cognitive neuroscience in art, brainwave performance art, history of bcmi, bcmi applications, bcmi research."
 nav_order: 6
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-6-litrev-brain-computer-music-interfacing

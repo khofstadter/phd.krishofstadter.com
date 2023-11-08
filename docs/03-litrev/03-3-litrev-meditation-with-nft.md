@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 3.3 Meditation with NFT
+description: "Explore the integration of Neurofeedback Training (NFT) with meditation practices in this detailed literature review. Discover the cognitive and neuroscientific underpinnings of concentrative and receptive meditation, and learn how NFT can enhance meditation techniques for improved mental health and cognitive function."
+keywords: "meditation, neurofeedback training, nft, concentrative meditation, receptive meditation, cognitive enhancement, neuromeditation, mindfulness, mental training, brainwave regulation, qeeg protocols, mental health, meditation techniques, mind-body practices"
 nav_order: 3
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-3-litrev-meditation-with-nft

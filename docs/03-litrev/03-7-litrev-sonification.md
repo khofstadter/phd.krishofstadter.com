@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 3.6.4 Sonification, musification and control in BCMI
+description: "Delve into the nuances of sonification, musification, and control within Brain-Computer Music Interfacing (BCMI). This section provides an in-depth analysis of how BCMI facilitates the translation of brain activity into musical expressions, exploring a range of techniques from low-level sonification to complex musification. It highlights the various methods for converting EEG signals into sound, discussing their applications in both artistic performances and medical monitoring. The content also addresses the distinctions and overlaps between passive and active control in BCMI systems, offering valuable insights for researchers and practitioners in the field."
+keywords: "bcmi, brain-computer music interface, sonification, musification, eeg sonification, audification, sound synthesis, musical performance, brainwave mapping, neurofeedback, real-time control, passive bcmi, active bcmi, eeg to music, auditory display, auralisation, bcmi control methods, music therapy applications, eeg data translation, brainwave sonification techniques, interactive music systems, cognitive neuroscience in music."
 nav_order: 6
 parent: 3 Literature Review
 permalink: /docs/03-litrev/03-7-litrev-sonification
