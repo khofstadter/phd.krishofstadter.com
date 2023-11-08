@@ -2,7 +2,8 @@
 layout: default
 title: Acknowledgements
 nav_order: 3
-permalink: /docs/acknowledgements
+permalink: /docs/frontpages/acknowledgements
+parent: Front Pages
 ---
 
 ## Acknowledgements

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1. Introduction
+title: 1 Introduction
 nav_order: 7
 permalink: /docs/01-introduction
 ---
 
-# 1. Introduction
+# 1 Introduction
 
 {: .no_toc }
 

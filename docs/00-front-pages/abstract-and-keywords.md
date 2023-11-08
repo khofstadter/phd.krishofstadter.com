@@ -2,6 +2,8 @@
 title: Abstract and Keywords
 layout: home
 nav_order: 2
+permalink: docs/abstract-and-keywords
+parent: Front Pages
 ---
 
 ## Abstract
