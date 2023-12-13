@@ -19,4 +19,4 @@ A thesis in partial fulfillment of the requirements of Anglia Ruskin University,
 
 The original PDF accepted can be found at [ResearchGate](https://www.researchgate.net/profile/Krisztian-Hofstaedter).
 
-I am gradually reformatting the thesis so it can be used as a website. I finished chapter 1–3, left are 4–5.
+I am gradually reformatting the thesis so it can be used as a website. I finished chapter 1–5. 

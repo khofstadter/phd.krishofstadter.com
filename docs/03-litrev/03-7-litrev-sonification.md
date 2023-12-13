@@ -11,16 +11,6 @@ permalink: /docs/03-litrev/03-7-litrev-sonification
 ## 3.6.4 Sonification, musification and control in BCMI
 <!--#brainart #science-art -->
 
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 BCMI offers a wide range of creative expressions in the final mapping and control parameters steps that can help create aesthetically engaging experiences. These parameters can relate to sound or music (e.g. rhythm, pulse, tempo, duration, structure, volume, pitch, timbre, tonality, harmony, spatial location) and may be controlled on analogue or digital sequencers, samplers, sound oscillators, filters or timers. Mapping to these parameters, in general, can be simple or more complex, single or multi-layered, direct or indirect, linear or nonlinear, continuous or intermittent. Parameters can change at the composition's micro-level (e.g. when mapping the amplitude of a brainwave to the volume of a sound oscillator in a linear manner) and at its macro-level (e.g. when a generative algorithm creates sad music if a brainwave is weak and happy music when strong). The more recent user- and mutually-orientated systems also use machine-learning techniques for adaptive mapping. A similar phrase for 'mapping brain data to sound' is 'sonification of brain data'. Sonification, often referred to as audio display, audification or auralisation, is generally defined as the use of non-speech audio to convey information and, more precisely, as 'the transformation of data relations into perceived relations in an acoustic signal for the purposes of facilitating communication or interpretation' (Kramer et al., 2010).[^nf-term]
 
 [^nf-term]: Both terms, 'mapping brain data to sound' and 'sonification of brain data' in the strictest sense are functionally analogous to the term 'neurofeedback with sound', i.e. when sound provides a form of feedback on neurological activity, although 'neurofeedback' conventionally implies that the feedback provided is in real time (on-line).
