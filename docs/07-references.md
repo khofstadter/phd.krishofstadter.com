@@ -3,7 +3,7 @@ layout: default
 title: References
 description: " "
 nav_order: 12
-permalink: /docs/06-conclusion
+permalink: /docs/06-references
 ---
 
 # References
