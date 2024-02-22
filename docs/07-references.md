@@ -108,7 +108,9 @@ Eaton, J. and Miranda, E.R., 2014b. On mapping eeg information into music. In: E
 
 Eaton, J. and Miranda, E.R., 2015. The hybrid brain computer music interface-integrating brainwave detection methods for extended control in musical performance systems. In: International Symposium on Computer Music Multidisciplinary Research (CMMR 2015). 16-19 June 2015, Plymouth, UK: Springer.pp.132–145.
 
-Eaton, J., Williams, D. and Miranda, E., 2014. Afective jukebox: A confrmatory study of EEG emotional correlates in response to musical stimuli. In: Proceedings of the 2014 Joint International Computer Music Conference and Sound & Music Computing Conference. 14-20 September 2014, Athens, Greece. Eaton, J., Williams, D. and Miranda, E., 2015. The space between us: Evaluating a multi- user afective brain-computer music interface. Brain-Computer Interfaces, 2(2-3), pp.103–116. https://doi.org/10.1080/2326263x.2015.1101922.
+Eaton, J., Williams, D. and Miranda, E., 2014. Afective jukebox: A confrmatory study of EEG emotional correlates in response to musical stimuli. In: Proceedings of the 2014 Joint International Computer Music Conference and Sound & Music Computing Conference. 14-20 September 2014, Athens, Greece. 
+
+Eaton, J., Williams, D. and Miranda, E., 2015. The space between us: Evaluating a multi- user afective brain-computer music interface. Brain-Computer Interfaces, 2(2-3), pp.103–116. https://doi.org/10.1080/2326263x.2015.1101922.
 
 Eaton, M.L., 1973. Induce and control: Bio-music is here today. Music Educators Journal, 59(5), pp.54–57. Ehrlich, S.K., Agres, K.R., Guan, C. and Cheng, G., 2019. A closed-loop, music-based brain-computer interface for emotion mediation. PLOS ONE, 14(3), p.e0213516. https://doi.org/10.1371/journal.pone.0213516. Facebook, 2007. Shamanism, 5d and beyond. [Facebook group]. Available at: https://www.facebook.com/groups/13204325203.
 
@@ -186,11 +188,13 @@ Harner, M., 2013. Cave and cosmos: Shamanic encounters with another reality. Nor
 and teaching of shamanic knowledge for the welfare of the planet and its inhabitants. Available at: https://www.shamanism.org.
 
 Hartogsohn, I., 2017. Constructing drug efects: A history of set and setting. Drug Science, Policy and Law, 3, p.205032451668332. https://doi.org/10.1177/2050324516683325.
-Hasenkamp, W., Wilson-Mendenhall, C.D., Duncan, E. and Barsalou, L.W., 2011. Mind wandering and attention during focused meditation: A fne-grained temporal analysis of fuctuating cognitive states.
+
+Hasenkamp, W., Wilson-Mendenhall, C.D., Duncan, E. and Barsalou, L.W., 2011. Mind wandering and attention during focused meditation: A fine-grained temporal analysis of fuctuating cognitive states.
 NeuroImage, 59(1), pp.750–760. https://doi.org/10.1016/j.neuroimage.2011.07.008.
 
-Henry, P., 1971. Mise en musique du corticalart de Roger Lafosse. Prospective 21e Siècle [6521 022]. Heppner, W.L. and Shirk, S.D., 2018. Mindful moments: A review of brief, low-intensity mindfulness
-meditation and induced mindful states. Social and Personality Psychology Compass, 12(12), p.e12424. https://doi.org/10.1111/spc3.12424.
+Henry, P., 1971. Mise en musique du corticalart de Roger Lafosse. Prospective 21e Siècle [6521 022]. 
+
+Heppner, W.L. and Shirk, S.D., 2018. Mindful moments: A review of brief, low-intensity mindfulness meditation and induced mindful states. Social and Personality Psychology Compass, 12(12), p.e12424. https://doi.org/10.1111/spc3.12424.
 
 Hermann, T., 2008. Taxonomy and defnitions for sonifcation and auditory display. In: Proceedings of the International Conference on Auditory Display (ICAD). June 24-27, Paris, France.
 
@@ -201,6 +205,7 @@ Hesam-Shariati, N., Chang, W.-J., Wewege, M.A., McAuley, J.H., Booth, A., Trost,
 Heuten, W., Wichmann, D. and Boll, S., 2006. Interactive 3D sonifcation for the exploration of city maps. In: Proceedings of the 4th Nordic Conference on Human-Computer Interaction Changing Roles - NordiCHI '06. ACM Press. https://doi.org/10.1145/1182475.1182492.
 
 Hoadley, R., 2011. INScore class for SuperCollider: Software prototype for visual musical notation [software]. Available at: https://rhoadley.net/research/index.php#software.
+
 Hofstädter, K., 2005. Insomnia. [oil painting]. (Part of 2004-2005 painting series made in Hungary, in private collection). Available at: https://khofstadter.com/painting.
 
 Hofstädter, K., 2009. Brain-computer music interface with the IBVA machine (installation). In: Hci2009 Open House Festival of Interactive Technology. 1-5 September 2009, Microsoft Research Centre, Cambridge. Available at: https://bcmi.khofstadter.com/HCI2009.
@@ -242,7 +247,9 @@ Hofstädter, K., 2022. (Forthcoming) Journeys around the secret place. In: G. Fa
 Holmes, S.W., Morris, R., Clance, P.R. and Putney, R.T., 1996. Holotropic breathwork: An experiential approach to psychotherapy. Psychotherapy: Theory, Research, Practice, Training, 33(1), pp.114–120.
 https://doi.org/10.1037/0033-3204.33.1.114.
 
-Hoogdalem, L.E. van, Feijs, H.M.E., Bramer, W.M., Ismail, S.Y. and Dongen, J.D.M. van, 2021. The efectiveness of neurofeedback therapy as an alternative treatment for autism spectrum disorders in children. Journal of Psychophysiology, 35(2), pp.102–115. https://doi.org/10.1027/0269-8803/a000265. Horrell, R., 2020. Music and the brain: Composing with the electroencephalogram. Master’s thesis. University of Plymouth.
+Hoogdalem, L.E. van, Feijs, H.M.E., Bramer, W.M., Ismail, S.Y. and Dongen, J.D.M. van, 2021. The efectiveness of neurofeedback therapy as an alternative treatment for autism spectrum disorders in children. Journal of Psychophysiology, 35(2), pp.102–115. https://doi.org/10.1027/0269-8803/a000265. 
+
+Horrell, R., 2020. Music and the brain: Composing with the electroencephalogram. Master’s thesis. University of Plymouth.
 
 Houran, J., Lange, R. and Crist-Houran, M., 1997. An assessment of contextual mediation in trance states of shamanic journeys. Perceptual and Motor Skills, 85(1), pp.59–65. https://doi.org/10.2466/pms.1997.85.1.59.
 
@@ -308,9 +315,12 @@ Lau-Zhu, A., Lau, M.P.H. and McLoughlin, G., 2019. Mobile EEG in research on neu
 
 Leary, T., Litwin, G.H. and Metzner, R., 1963. Reactions to psilocybin administered in a supportive environment. Journal of Nervous and Mental Disease, 137(6), pp.561–573. https://doi.org/https: //psycnet.apa.org/doi/10.1097/00005053-196312000-00007.
 
-Lee, D.J., Kulubya, E., Goldin, P., Goodarzi, A. and Girgis, F., 2018. Review of the neural oscillations underlying meditation. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00178. Lopez, M., Kearney, G. and Hofstädter, K., 2018. Audio description in the UK: What works, what doesn’t, and understanding the need for personalising access. British Journal of Visual Impairment, p.026461961879475. https://doi.org/10.1177/0264619618794750.
+Lee, D.J., Kulubya, E., Goldin, P., Goodarzi, A. and Girgis, F., 2018. Review of the neural oscillations underlying meditation. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00178. 
+
+Lopez, M., Kearney, G. and Hofstädter, K., 2018. Audio description in the UK: What works, what doesn’t, and understanding the need for personalising access. British Journal of Visual Impairment, p.026461961879475. https://doi.org/10.1177/0264619618794750.
 
 Lucier, A., 1976. Statement on: Music for solo performer. In: D. Rosenboom, ed. Biofeedback and the Arts, Results of Early Experiments. Vancouver: Aesthetic Research Center of Canada Publications.pp.60–61. Lucier, A., 1995. Refections: Interviews, scores, writings. MusikTexte.
+
 Lutters, B. and Koehler, P.J., 2016. Brainwaves in concert: The 20th century sonifcation of the electroencephalogram. Brain, 139(10), pp.2809–2814. https://doi.org/10.1093/brain/aww207.
 
 Lutz, A., Dunne, J.D. and Davidson, R.J., 2007. Meditation and the neuroscience of consciousness: An introduction. In: P.D. Zelazo, M. Moscovitch and E. Thompson, eds. The Cambridge Handbook of Consciousness. Cambridge University Press.pp.499–552. https://doi.org/10.1017/cbo9780511816789.020. 
@@ -366,7 +376,9 @@ https://www.monroeinstitute.org.
 Monroe Institute, 1962b. Website of the research institute established by Robert Monroe to research altered states of consciousness with binaural beats. Available at: https://www.monroeinstitute.org. Montague, S., 1985. John Cage at seventy: An interview. American Music, 3(2), p.205. https://doi.org/10.2307/3051637.
 
 Mridha, M.F., Das, S.C., Kabir, M.M., Lima, A.A., Islam, Md.R. and Watanobe, Y., 2021. Brain-computer
-interface: Advancement and challenges. Sensors, 21(17), p.5746. https://doi.org/10.3390/s21175746. Mullen, T., Khalil, A., Ward, T., Iversen, J., Leslie, G., Warp, R., Whitman, M., Minces, V., McCoy, A., Ojeda, A. and others, 2015. MindMusic: Playful and social installations at the interface between music and the brain. In: A. Nijholt, ed. More Playful User Interfaces: Interfaces That Invite Social and Physical Interaction. Springer.pp.197–229.
+interface: Advancement and challenges. Sensors, 21(17), p.5746. https://doi.org/10.3390/s21175746. 
+
+Mullen, T., Khalil, A., Ward, T., Iversen, J., Leslie, G., Warp, R., Whitman, M., Minces, V., McCoy, A., Ojeda, A. and others, 2015. MindMusic: Playful and social installations at the interface between music and the brain. In: A. Nijholt, ed. More Playful User Interfaces: Interfaces That Invite Social and Physical Interaction. Springer.pp.197–229.
 
 Néda, Z., Ravasz, E., Brechet, Y., Vicsek, T. and Barabási, A.L., 2000. The sound of many hands clapping. Nature, 403(6772), pp.849–850. https://doi.org/10.1038/35002660.
 
@@ -418,7 +430,9 @@ OpenBCI, 2013. Website of OpenBCI, the open-source brain-computer interface plat
 
 OpenBCI, 2015. 32 bit Cyton biosensing board. [hardware]. Available at: https://shop.openbci.com/collections/frontpage/products/cyton-biosensing-board-8-channel.
 
-OpenBCI, 2017a. OpenBCI_GUI: OpenBCI’s software tool for visualizing, recording, and streaming data from the OpenBCI boards. [software]. Available at: https://github.com/OpenBCI/OpenBCI_GUI. OpenBCI, 2017. Software development kits (SDKs) including C++, Python, C#, Java, R, MATLAB, Julia and Rust tools/prototypes/frameworks. [software]. Available at: https://docs.openbci.com/ForDevelopers/SoftwareDevelopment.
+OpenBCI, 2017a. OpenBCI_GUI: OpenBCI’s software tool for visualizing, recording, and streaming data from the OpenBCI boards. [software]. Available at: https://github.com/OpenBCI/OpenBCI_GUI. 
+
+OpenBCI, 2017. Software development kits (SDKs) including C++, Python, C#, Java, R, MATLAB, Julia and Rust tools/prototypes/frameworks. [software]. Available at: https://docs.openbci.com/ForDevelopers/SoftwareDevelopment.
 
 OpenBCI, 2017b. Ultracortex IV: The Ultracortex is an open-source, 3D-printable headset intended to work with the OpenBCI system. [Sketch fles and documentation]. Available at: https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV.
 
@@ -430,7 +444,9 @@ OpenBCI Archive, 2019. Archived shop page of Wi-f shield. [hardware]. Available 
 
 OpenBCI Forum, 2019. Is continuous monitoring of impedance possible while recording EEG? [forum post]. Available at: https://openbci.com/forum/index.php? p=/discussion/2207/is-continuous-monitoring-of-impedance-possible-while-recording-eeg.
 
-Ortiz, M., 2012. A brief history of biosignal-driven art: From biofeedback to biophysical performance. eContact! Biotechnological Performance Practice/Pratiques de performance biotechnologique, 14(2). Panisch, L.S. and Hai, A.H., 2018. The efectiveness of using neurofeedback in the treatment of post- traumatic stress disorder: A systematic review. Trauma, Violence and Abuse, 21(3), pp.541–550. https://doi.org/10.1177/1524838018781103.
+Ortiz, M., 2012. A brief history of biosignal-driven art: From biofeedback to biophysical performance. eContact! Biotechnological Performance Practice/Pratiques de performance biotechnologique, 14(2). 
+
+Panisch, L.S. and Hai, A.H., 2018. The efectiveness of using neurofeedback in the treatment of post- traumatic stress disorder: A systematic review. Trauma, Violence and Abuse, 21(3), pp.541–550. https://doi.org/10.1177/1524838018781103.
 
 Papachristodoulou, P., Betella, A. and Verschure, P., 2014. Sonifcation of large datasets in a 3D immersive environment: A neuroscience case study. In: Achi2014: The Seventh International Conference on
 Advances in Computer-Human Interactions. 23-27 March, Barcelona, Spain.
@@ -455,7 +471,9 @@ Python, 1986. Python programming language. Available at: https://www.python.org.
 
 Ramadan, R.A. and Vasilakos, A.V., 2016. Brain computer interface: Control signals review. Neurocomputing, 223, pp.26–44. https://doi.org/10.1016/j.neucom.2016.10.024.
 
-Ramirez, R., Palencia-Lefer, M., Giraldo, S. and Vamvakousis, Z., 2015. Musical neurofeedback for treating depression in elderly people. Frontiers in Neuroscience, 9. https://doi.org/10.3389/fnins.2015.00354. Ratti, E., Waninger, S., Berka, C., Rufni, G. and Verma, A., 2017. Comparison of medical and consumer wireless EEG systems for use in clinical trials. Frontiers in Human Neuroscience, 11. https://doi.org/10.3389/fnhum.2017.00398.
+Ramirez, R., Palencia-Lefer, M., Giraldo, S. and Vamvakousis, Z., 2015. Musical neurofeedback for treating depression in elderly people. Frontiers in Neuroscience, 9. https://doi.org/10.3389/fnins.2015.00354. 
+
+Ratti, E., Waninger, S., Berka, C., Rufni, G. and Verma, A., 2017. Comparison of medical and consumer wireless EEG systems for use in clinical trials. Frontiers in Human Neuroscience, 11. https://doi.org/10.3389/fnhum.2017.00398.
 
 Rebel Wisdom, 2022. Psychedelic capitalism and the sacred. A video documentary in which Alexander Beiner interviews leaders in the feld including Robin Carhart-Harris; Dennis McKenna. Available at: https://youtu.be/rf7S0PcfsA4.
 
@@ -560,7 +578,9 @@ IEEE Transactions on Multimedia, 23, pp.706–715.
 
 Toussaint, G., 2005. The euclidean algorithm generates traditional musical rhythms. In: Renaissance Banf: Mathematics, Music, Art, Culture. pp.47–56.
 
-Trambaiolli, L.R., Kohl, S.H., Linden, D.E.J. and Mehler, D.M.A., 2021. Neurofeedback training in major depressive disorder: A systematic review of clinical efcacy, study quality and reporting practices. Neuroscience & Biobehavioral Reviews, 125, pp.33–56. https://doi.org/10.1016/j.neubiorev.2021.02.015. Trček, D., 2018. Cruxes for visual domain sonifcation in digital arts. Digital Creativity, 32(4), pp.293–306. https://doi.org/10.1080/14626268.2021.2002913.
+Trambaiolli, L.R., Kohl, S.H., Linden, D.E.J. and Mehler, D.M.A., 2021. Neurofeedback training in major depressive disorder: A systematic review of clinical efcacy, study quality and reporting practices. Neuroscience & Biobehavioral Reviews, 125, pp.33–56. https://doi.org/10.1016/j.neubiorev.2021.02.015. 
+
+Trček, D., 2018. Cruxes for visual domain sonifcation in digital arts. Digital Creativity, 32(4), pp.293–306. https://doi.org/10.1080/14626268.2021.2002913.
 
 Trost, W.J., Labbé, C. and Grandjean, D., 2017. Rhythmic entrainment as a musical afect induction mechanism. Neuropsychologia, 96, pp.96–110. https://doi.org/10.1016/j.neuropsychologia.2017.01.004. Trost, W. and Vuilleumier, P., 2013. Rhythmic entrainment as a mechanism for emotion in- duction by music. In: The Emotional Power of Music. Oxford University Press.pp.213–225. https://doi.org/10.1093/acprof:oso/9780199654888.003.0016.
 
@@ -613,6 +633,3 @@ Wu, J.-H., Wang, S.-C. and Tsai, H.-H., 2010. Falling in love with online games:
 Zhang, B., Wang, J. and Fuhlbrigge, T., 2010. A review of the commercial brain-computer interface technology from perspective of industrial robotics. In: 2010 IEEE International Conference on Automation and Logistics. IEEE. https://doi.org/10.1109/ical.2010.5585311.
 
 Zinberg, N., 1984. Drug, set, and setting: The basis for controlled intoxicant use. New Haven. London: Yale University Press.
-
-
-
